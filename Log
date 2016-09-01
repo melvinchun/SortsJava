@@ -1,0 +1,900 @@
+Metodo: Bubble Sort
+Input: 10
+Time: 595099ns
+Metodo: Bubble Sort
+Input: 10
+Time: 446310ns
+Metodo: Bubble Sort
+Input: 10
+Time: 108218ns
+Metodo: Bubble Sort
+Input: 10
+Time: 91525ns
+Metodo: Bubble Sort
+Input: 10
+Time: 85998ns
+Metodo: Bubble Sort
+Input: 10
+Time: 164796ns
+Metodo: Bubble Sort
+Input: 10
+Time: 186547ns
+Metodo: Bubble Sort
+Input: 10
+Time: 87152ns
+Metodo: Bubble Sort
+Input: 10
+Time: 97125ns
+Metodo: Bubble Sort
+Input: 10
+Time: 90180ns
+Metodo: Insert Sort
+Input: 10
+Time: 124331ns
+Metodo: Insert Sort
+Input: 10
+Time: 94426ns
+Metodo: Insert Sort
+Input: 10
+Time: 103560ns
+Metodo: Insert Sort
+Input: 10
+Time: 88795ns
+Metodo: Insert Sort
+Input: 10
+Time: 90329ns
+Metodo: Insert Sort
+Input: 10
+Time: 93323ns
+Metodo: Insert Sort
+Input: 10
+Time: 88475ns
+Metodo: Insert Sort
+Input: 10
+Time: 94597ns
+Metodo: Insert Sort
+Input: 10
+Time: 78478ns
+Metodo: Insert Sort
+Input: 10
+Time: 133613ns
+Metodo: Selection Sort
+Input: 10
+Time: 98549ns
+Metodo: Selection Sort
+Input: 10
+Time: 159464ns
+Metodo: Selection Sort
+Input: 10
+Time: 95423ns
+Metodo: Selection Sort
+Input: 10
+Time: 94313ns
+Metodo: Selection Sort
+Input: 10
+Time: 89072ns
+Metodo: Selection Sort
+Input: 10
+Time: 95952ns
+Metodo: Selection Sort
+Input: 10
+Time: 109397ns
+Metodo: Selection Sort
+Input: 10
+Time: 95447ns
+Metodo: Selection Sort
+Input: 10
+Time: 92984ns
+Metodo: Selection Sort
+Input: 10
+Time: 103180ns
+Metodo: Merge Sort
+Input: 10
+Time: 245439ns
+Metodo: Merge Sort
+Input: 10
+Time: 107896ns
+Metodo: Merge Sort
+Input: 10
+Time: 88956ns
+Metodo: Merge Sort
+Input: 10
+Time: 1541499ns
+Metodo: Merge Sort
+Input: 10
+Time: 270398ns
+Metodo: Merge Sort
+Input: 10
+Time: 175984ns
+Metodo: Merge Sort
+Input: 10
+Time: 187809ns
+Metodo: Merge Sort
+Input: 10
+Time: 160010ns
+Metodo: Merge Sort
+Input: 10
+Time: 769147ns
+Metodo: Merge Sort
+Input: 10
+Time: 159047ns
+Metodo: Quick Sort
+Input: 10
+Time: 131800ns
+Metodo: Quick Sort
+Input: 10
+Time: 149295ns
+Metodo: Quick Sort
+Input: 10
+Time: 141555ns
+Metodo: Quick Sort
+Input: 10
+Time: 130763ns
+Metodo: Quick Sort
+Input: 10
+Time: 96371ns
+Metodo: Quick Sort
+Input: 10
+Time: 86672ns
+Metodo: Quick Sort
+Input: 10
+Time: 172268ns
+Metodo: Quick Sort
+Input: 10
+Time: 92634ns
+Metodo: Quick Sort
+Input: 10
+Time: 87813ns
+Metodo: Quick Sort
+Input: 10
+Time: 80150ns
+Metodo: Bubble Sort
+Input: 100
+Time: 625327ns
+Metodo: Bubble Sort
+Input: 100
+Time: 522191ns
+Metodo: Bubble Sort
+Input: 100
+Time: 465891ns
+Metodo: Bubble Sort
+Input: 100
+Time: 466591ns
+Metodo: Bubble Sort
+Input: 100
+Time: 465594ns
+Metodo: Bubble Sort
+Input: 100
+Time: 441590ns
+Metodo: Bubble Sort
+Input: 100
+Time: 412784ns
+Metodo: Bubble Sort
+Input: 100
+Time: 449456ns
+Metodo: Bubble Sort
+Input: 100
+Time: 447991ns
+Metodo: Bubble Sort
+Input: 100
+Time: 405532ns
+Metodo: Insert Sort
+Input: 100
+Time: 243069ns
+Metodo: Insert Sort
+Input: 100
+Time: 219767ns
+Metodo: Insert Sort
+Input: 100
+Time: 211048ns
+Metodo: Insert Sort
+Input: 100
+Time: 268976ns
+Metodo: Insert Sort
+Input: 100
+Time: 198263ns
+Metodo: Insert Sort
+Input: 100
+Time: 256587ns
+Metodo: Insert Sort
+Input: 100
+Time: 242082ns
+Metodo: Insert Sort
+Input: 100
+Time: 205013ns
+Metodo: Insert Sort
+Input: 100
+Time: 214738ns
+Metodo: Insert Sort
+Input: 100
+Time: 222209ns
+Metodo: Selection Sort
+Input: 100
+Time: 267275ns
+Metodo: Selection Sort
+Input: 100
+Time: 246082ns
+Metodo: Selection Sort
+Input: 100
+Time: 286162ns
+Metodo: Selection Sort
+Input: 100
+Time: 278742ns
+Metodo: Selection Sort
+Input: 100
+Time: 289887ns
+Metodo: Selection Sort
+Input: 100
+Time: 284329ns
+Metodo: Selection Sort
+Input: 100
+Time: 275513ns
+Metodo: Selection Sort
+Input: 100
+Time: 269739ns
+Metodo: Selection Sort
+Input: 100
+Time: 280945ns
+Metodo: Selection Sort
+Input: 100
+Time: 222169ns
+Metodo: Merge Sort
+Input: 100
+Time: 257873ns
+Metodo: Merge Sort
+Input: 100
+Time: 342880ns
+Metodo: Merge Sort
+Input: 100
+Time: 338050ns
+Metodo: Merge Sort
+Input: 100
+Time: 463005ns
+Metodo: Merge Sort
+Input: 100
+Time: 5909467ns
+Metodo: Merge Sort
+Input: 100
+Time: 185728ns
+Metodo: Merge Sort
+Input: 100
+Time: 168571ns
+Metodo: Merge Sort
+Input: 100
+Time: 258135ns
+Metodo: Merge Sort
+Input: 100
+Time: 163448ns
+Metodo: Merge Sort
+Input: 100
+Time: 156089ns
+Metodo: Quick Sort
+Input: 100
+Time: 123560ns
+Metodo: Quick Sort
+Input: 100
+Time: 122663ns
+Metodo: Quick Sort
+Input: 100
+Time: 123853ns
+Metodo: Quick Sort
+Input: 100
+Time: 114531ns
+Metodo: Quick Sort
+Input: 100
+Time: 142573ns
+Metodo: Quick Sort
+Input: 100
+Time: 133573ns
+Metodo: Quick Sort
+Input: 100
+Time: 113483ns
+Metodo: Quick Sort
+Input: 100
+Time: 119723ns
+Metodo: Quick Sort
+Input: 100
+Time: 131235ns
+Metodo: Quick Sort
+Input: 100
+Time: 120739ns
+Metodo: Bubble Sort
+Input: 1000
+Time: 1501727ns
+Metodo: Bubble Sort
+Input: 1000
+Time: 3563760ns
+Metodo: Bubble Sort
+Input: 1000
+Time: 9138032ns
+Metodo: Bubble Sort
+Input: 1000
+Time: 1629239ns
+Metodo: Bubble Sort
+Input: 1000
+Time: 2057039ns
+Metodo: Bubble Sort
+Input: 1000
+Time: 1634714ns
+Metodo: Bubble Sort
+Input: 1000
+Time: 1656558ns
+Metodo: Bubble Sort
+Input: 1000
+Time: 1587277ns
+Metodo: Bubble Sort
+Input: 1000
+Time: 1569355ns
+Metodo: Bubble Sort
+Input: 1000
+Time: 1627696ns
+Metodo: Insert Sort
+Input: 1000
+Time: 12661697ns
+Metodo: Insert Sort
+Input: 1000
+Time: 897030ns
+Metodo: Insert Sort
+Input: 1000
+Time: 902742ns
+Metodo: Insert Sort
+Input: 1000
+Time: 870294ns
+Metodo: Insert Sort
+Input: 1000
+Time: 787111ns
+Metodo: Insert Sort
+Input: 1000
+Time: 755335ns
+Metodo: Insert Sort
+Input: 1000
+Time: 799811ns
+Metodo: Insert Sort
+Input: 1000
+Time: 832182ns
+Metodo: Insert Sort
+Input: 1000
+Time: 4474821ns
+Metodo: Insert Sort
+Input: 1000
+Time: 1513590ns
+Metodo: Selection Sort
+Input: 1000
+Time: 6057253ns
+Metodo: Selection Sort
+Input: 1000
+Time: 7018501ns
+Metodo: Selection Sort
+Input: 1000
+Time: 8899403ns
+Metodo: Selection Sort
+Input: 1000
+Time: 2649647ns
+Metodo: Selection Sort
+Input: 1000
+Time: 1861611ns
+Metodo: Selection Sort
+Input: 1000
+Time: 1856030ns
+Metodo: Selection Sort
+Input: 1000
+Time: 915707ns
+Metodo: Selection Sort
+Input: 1000
+Time: 2759020ns
+Metodo: Selection Sort
+Input: 1000
+Time: 1933177ns
+Metodo: Selection Sort
+Input: 1000
+Time: 1502193ns
+Metodo: Merge Sort
+Input: 1000
+Time: 616131ns
+Metodo: Merge Sort
+Input: 1000
+Time: 3653582ns
+Metodo: Merge Sort
+Input: 1000
+Time: 514502ns
+Metodo: Merge Sort
+Input: 1000
+Time: 5997174ns
+Metodo: Merge Sort
+Input: 1000
+Time: 346482ns
+Metodo: Merge Sort
+Input: 1000
+Time: 341960ns
+Metodo: Merge Sort
+Input: 1000
+Time: 343301ns
+Metodo: Merge Sort
+Input: 1000
+Time: 335603ns
+Metodo: Merge Sort
+Input: 1000
+Time: 334524ns
+Metodo: Merge Sort
+Input: 1000
+Time: 1035372ns
+Metodo: Quick Sort
+Input: 1000
+Time: 334440ns
+Metodo: Quick Sort
+Input: 1000
+Time: 259833ns
+Metodo: Quick Sort
+Input: 1000
+Time: 264743ns
+Metodo: Quick Sort
+Input: 1000
+Time: 264655ns
+Metodo: Quick Sort
+Input: 1000
+Time: 270271ns
+Metodo: Quick Sort
+Input: 1000
+Time: 263251ns
+Metodo: Quick Sort
+Input: 1000
+Time: 258179ns
+Metodo: Quick Sort
+Input: 1000
+Time: 262613ns
+Metodo: Quick Sort
+Input: 1000
+Time: 259174ns
+Metodo: Quick Sort
+Input: 1000
+Time: 261292ns
+Metodo: Bubble Sort
+Input: 10000
+Time: 214434979ns
+Metodo: Bubble Sort
+Input: 10000
+Time: 175749511ns
+Metodo: Bubble Sort
+Input: 10000
+Time: 173313554ns
+Metodo: Bubble Sort
+Input: 10000
+Time: 176270671ns
+Metodo: Bubble Sort
+Input: 10000
+Time: 170437443ns
+Metodo: Bubble Sort
+Input: 10000
+Time: 183715975ns
+Metodo: Bubble Sort
+Input: 10000
+Time: 169984088ns
+Metodo: Bubble Sort
+Input: 10000
+Time: 167996377ns
+Metodo: Bubble Sort
+Input: 10000
+Time: 173786162ns
+Metodo: Bubble Sort
+Input: 10000
+Time: 173232006ns
+Metodo: Insert Sort
+Input: 10000
+Time: 53052718ns
+Metodo: Insert Sort
+Input: 10000
+Time: 47850166ns
+Metodo: Insert Sort
+Input: 10000
+Time: 43584599ns
+Metodo: Insert Sort
+Input: 10000
+Time: 46598181ns
+Metodo: Insert Sort
+Input: 10000
+Time: 49191028ns
+Metodo: Insert Sort
+Input: 10000
+Time: 46570485ns
+Metodo: Insert Sort
+Input: 10000
+Time: 17229926ns
+Metodo: Insert Sort
+Input: 10000
+Time: 15799131ns
+Metodo: Insert Sort
+Input: 10000
+Time: 17179790ns
+Metodo: Insert Sort
+Input: 10000
+Time: 18872166ns
+Metodo: Selection Sort
+Input: 10000
+Time: 43145841ns
+Metodo: Selection Sort
+Input: 10000
+Time: 46259008ns
+Metodo: Selection Sort
+Input: 10000
+Time: 41480718ns
+Metodo: Selection Sort
+Input: 10000
+Time: 46373738ns
+Metodo: Selection Sort
+Input: 10000
+Time: 43963263ns
+Metodo: Selection Sort
+Input: 10000
+Time: 42959070ns
+Metodo: Selection Sort
+Input: 10000
+Time: 45693918ns
+Metodo: Selection Sort
+Input: 10000
+Time: 48170963ns
+Metodo: Selection Sort
+Input: 10000
+Time: 45158766ns
+Metodo: Selection Sort
+Input: 10000
+Time: 45768076ns
+Metodo: Merge Sort
+Input: 10000
+Time: 2708371ns
+Metodo: Merge Sort
+Input: 10000
+Time: 2538008ns
+Metodo: Merge Sort
+Input: 10000
+Time: 3331364ns
+Metodo: Merge Sort
+Input: 10000
+Time: 2789322ns
+Metodo: Merge Sort
+Input: 10000
+Time: 2533597ns
+Metodo: Merge Sort
+Input: 10000
+Time: 3261839ns
+Metodo: Merge Sort
+Input: 10000
+Time: 2078854ns
+Metodo: Merge Sort
+Input: 10000
+Time: 12682956ns
+Metodo: Merge Sort
+Input: 10000
+Time: 2730520ns
+Metodo: Merge Sort
+Input: 10000
+Time: 2171538ns
+Metodo: Quick Sort
+Input: 10000
+Time: 1863177ns
+Metodo: Quick Sort
+Input: 10000
+Time: 1694344ns
+Metodo: Quick Sort
+Input: 10000
+Time: 1647606ns
+Metodo: Quick Sort
+Input: 10000
+Time: 1579707ns
+Metodo: Quick Sort
+Input: 10000
+Time: 1353124ns
+Metodo: Quick Sort
+Input: 10000
+Time: 1621041ns
+Metodo: Quick Sort
+Input: 10000
+Time: 1828137ns
+Metodo: Quick Sort
+Input: 10000
+Time: 1349673ns
+Metodo: Quick Sort
+Input: 10000
+Time: 1372906ns
+Metodo: Quick Sort
+Input: 10000
+Time: 1418025ns
+Metodo: Bubble Sort
+Input: 100000
+Time: 20145993560ns
+Metodo: Bubble Sort
+Input: 100000
+Time: 17078701096ns
+Metodo: Bubble Sort
+Input: 100000
+Time: 17133736691ns
+Metodo: Bubble Sort
+Input: 100000
+Time: 17141708376ns
+Metodo: Bubble Sort
+Input: 100000
+Time: 17055451890ns
+Metodo: Bubble Sort
+Input: 100000
+Time: 17106414410ns
+Metodo: Bubble Sort
+Input: 100000
+Time: 17053846907ns
+Metodo: Bubble Sort
+Input: 100000
+Time: 17004157042ns
+Metodo: Bubble Sort
+Input: 100000
+Time: 16933202368ns
+Metodo: Bubble Sort
+Input: 100000
+Time: 17015152971ns
+Metodo: Insert Sort
+Input: 100000
+Time: 1699505781ns
+Metodo: Insert Sort
+Input: 100000
+Time: 1780938881ns
+Metodo: Insert Sort
+Input: 100000
+Time: 1878050982ns
+Metodo: Insert Sort
+Input: 100000
+Time: 1813322298ns
+Metodo: Insert Sort
+Input: 100000
+Time: 1688515869ns
+Metodo: Insert Sort
+Input: 100000
+Time: 1828858809ns
+Metodo: Insert Sort
+Input: 100000
+Time: 1799854035ns
+Metodo: Insert Sort
+Input: 100000
+Time: 1837333194ns
+Metodo: Insert Sort
+Input: 100000
+Time: 1823830823ns
+Metodo: Insert Sort
+Input: 100000
+Time: 1823407071ns
+Metodo: Selection Sort
+Input: 100000
+Time: 4640609052ns
+Metodo: Selection Sort
+Input: 100000
+Time: 4630979927ns
+Metodo: Selection Sort
+Input: 100000
+Time: 4735435408ns
+Metodo: Selection Sort
+Input: 100000
+Time: 4647737875ns
+Metodo: Selection Sort
+Input: 100000
+Time: 4628123573ns
+Metodo: Selection Sort
+Input: 100000
+Time: 4693898088ns
+Metodo: Selection Sort
+Input: 100000
+Time: 4666138042ns
+Metodo: Selection Sort
+Input: 100000
+Time: 4728276628ns
+Metodo: Selection Sort
+Input: 100000
+Time: 4688530483ns
+Metodo: Selection Sort
+Input: 100000
+Time: 4661353441ns
+Metodo: Merge Sort
+Input: 100000
+Time: 29820636ns
+Metodo: Merge Sort
+Input: 100000
+Time: 21447428ns
+Metodo: Merge Sort
+Input: 100000
+Time: 18675735ns
+Metodo: Merge Sort
+Input: 100000
+Time: 25060675ns
+Metodo: Merge Sort
+Input: 100000
+Time: 22099320ns
+Metodo: Merge Sort
+Input: 100000
+Time: 27413127ns
+Metodo: Merge Sort
+Input: 100000
+Time: 27496407ns
+Metodo: Merge Sort
+Input: 100000
+Time: 24297015ns
+Metodo: Merge Sort
+Input: 100000
+Time: 23072786ns
+Metodo: Merge Sort
+Input: 100000
+Time: 23685243ns
+Metodo: Quick Sort
+Input: 100000
+Time: 10498409ns
+Metodo: Quick Sort
+Input: 100000
+Time: 10270217ns
+Metodo: Quick Sort
+Input: 100000
+Time: 12552736ns
+Metodo: Quick Sort
+Input: 100000
+Time: 12861200ns
+Metodo: Quick Sort
+Input: 100000
+Time: 12989531ns
+Metodo: Quick Sort
+Input: 100000
+Time: 14259567ns
+Metodo: Quick Sort
+Input: 100000
+Time: 13049659ns
+Metodo: Quick Sort
+Input: 100000
+Time: 10774547ns
+Metodo: Quick Sort
+Input: 100000
+Time: 11039485ns
+Metodo: Quick Sort
+Input: 100000
+Time: 12941938ns
+Metodo: Bubble Sort
+Input: 1000000
+Time: 1575440101462ns
+Metodo: Bubble Sort
+Input: 1000000
+Time: 1573392236145ns
+Metodo: Bubble Sort
+Input: 1000000
+Time: 1567930828652ns
+Metodo: Bubble Sort
+Input: 1000000
+Time: 1569103787743ns
+Metodo: Bubble Sort
+Input: 1000000
+Time: 1571718899606ns
+Metodo: Bubble Sort
+Input: 1000000
+Time: 1565173586293ns
+Metodo: Bubble Sort
+Input: 1000000
+Time: 1568161895230ns
+Metodo: Bubble Sort
+Input: 1000000
+Time: 1570370501870ns
+Metodo: Bubble Sort
+Input: 1000000
+Time: 1569446633251ns
+Metodo: Bubble Sort
+Input: 1000000
+Time: 1573304036499ns
+Metodo: Insert Sort
+Input: 1000000
+Time: 139509997872ns
+Metodo: Insert Sort
+Input: 1000000
+Time: 138821622146ns
+Metodo: Insert Sort
+Input: 1000000
+Time: 138310421354ns
+Metodo: Insert Sort
+Input: 1000000
+Time: 138539800540ns
+Metodo: Insert Sort
+Input: 1000000
+Time: 139154132687ns
+Metodo: Insert Sort
+Input: 1000000
+Time: 139051590741ns
+Metodo: Insert Sort
+Input: 1000000
+Time: 138093835993ns
+Metodo: Insert Sort
+Input: 1000000
+Time: 138474938310ns
+Metodo: Insert Sort
+Input: 1000000
+Time: 138370595734ns
+Metodo: Insert Sort
+Input: 1000000
+Time: 137846691604ns
+Metodo: Selection Sort
+Input: 1000000
+Time: 363335568213ns
+Metodo: Selection Sort
+Input: 1000000
+Time: 362403685934ns
+Metodo: Selection Sort
+Input: 1000000
+Time: 362363342892ns
+Metodo: Selection Sort
+Input: 1000000
+Time: 364321834379ns
+Metodo: Selection Sort
+Input: 1000000
+Time: 364883032522ns
+Metodo: Selection Sort
+Input: 1000000
+Time: 366010805712ns
+Metodo: Selection Sort
+Input: 1000000
+Time: 365371814847ns
+Metodo: Selection Sort
+Input: 1000000
+Time: 362658576851ns
+Metodo: Selection Sort
+Input: 1000000
+Time: 362701131778ns
+Metodo: Selection Sort
+Input: 1000000
+Time: 365959495395ns
+Metodo: Merge Sort
+Input: 1000000
+Time: 185412500ns
+Metodo: Merge Sort
+Input: 1000000
+Time: 217157530ns
+Metodo: Merge Sort
+Input: 1000000
+Time: 188610923ns
+Metodo: Merge Sort
+Input: 1000000
+Time: 252572981ns
+Metodo: Merge Sort
+Input: 1000000
+Time: 188294615ns
+Metodo: Merge Sort
+Input: 1000000
+Time: 237137058ns
+Metodo: Merge Sort
+Input: 1000000
+Time: 182314827ns
+Metodo: Merge Sort
+Input: 1000000
+Time: 206861728ns
+Metodo: Merge Sort
+Input: 1000000
+Time: 236326216ns
+Metodo: Merge Sort
+Input: 1000000
+Time: 190912775ns
+Metodo: Quick Sort
+Input: 1000000
+Time: 105162450ns
+Metodo: Quick Sort
+Input: 1000000
+Time: 104012927ns
+Metodo: Quick Sort
+Input: 1000000
+Time: 111707228ns
+Metodo: Quick Sort
+Input: 1000000
+Time: 107305848ns
+Metodo: Quick Sort
+Input: 1000000
+Time: 105751095ns
+Metodo: Quick Sort
+Input: 1000000
+Time: 97861696ns
+Metodo: Quick Sort
+Input: 1000000
+Time: 106266806ns
+Metodo: Quick Sort
+Input: 1000000
+Time: 122104191ns
+Metodo: Quick Sort
+Input: 1000000
+Time: 110711445ns
+Metodo: Quick Sort
+Input: 1000000
+Time: 113139800ns
